@@ -15,6 +15,8 @@ Your **Repository** is where all your files, folders and content are going to be
 1. In order to make use of Git and Github, you will first have to download and install the Webstorm App. Find the download link right below:
 https://www.jetbrains.com/webstorm/download/#section=windows
 2. After installing Webstorm, you will now have to link the it to your **Github** **Repository**.
+3. To do this, you 
+
 
 ### **GIT**
 
