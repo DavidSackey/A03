@@ -15,23 +15,29 @@ Your **Repository** is where all your files, folders and content are going to be
 1. In order to make use of Git and Github, you will first have to download and install the Webstorm App. Find the download link right below:
 https://www.jetbrains.com/webstorm/download/#section=windows
 2. After installing Webstorm, you will now have to link the it to your **Github** **Repository**.
-3. To do this, you 
-
+3. To do this, you copy your **repository** path. Now you will go back into Webstorm, click the **GIT** dropdown and click Clone.
+4. Under **Repository** URL, you will set your Version control to **Git**, paste your URL and click **Clone**. Now you have set up a connection between your **Github** and Webstorm and you can now use all the **Git** functions on your application.
+5. 
 
 ### **GIT**
 
+Webstorm has in-built **GIT** functions such as 
 
 
 
-- Branch
-- Clone
-- Commit
-- Fetch
-- GIT
-- Github
-- Merge
-- Merge Conflict
-- Push
-- Pull
-- Remote
-- Repository
+
+- Branch - This is another created version of the main repository.
+- Clone - Cloning is creating a local version of your Github repository.
+- Commit - A commit can be defined as a snapshot to keep track of your current progess and changes on a project.
+- Fetch - Fetch is a command that gets all the change history of a tracked branch or repository.
+- GIT - Git is a Version Control System that is used to track changes on a project.
+- Github - Github is an online host of source code owned by Microsoft where users can store their code projects as well as easily share with others.
+- Merge - Merge is a command use to combine two branches. It is mainly used to merge new branches to the main branch.
+- Merge Conflict - A merge conflict is when a user have differences or competing commits during a merge. Hence the user has to resolve this.
+- Push - Push is a command use to update a user's remote repository with changes made on their local repository
+- Pull - Pull is a command used to update your local branch or repository with all changes from a remote repository.
+- Remote - This is a version of your files or information that is stored on the internet or external network.
+- Repository - A repository is used a storage to keep all of a user's files and folders in a project.
+
+References:
+https://www.w3schools.com/git
