@@ -49,3 +49,4 @@ Switching between **Branches**: git checkout
 
 References:
 https://www.w3schools.com/git
+https://www.atlassian.com/git/glossary
