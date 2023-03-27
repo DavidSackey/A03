@@ -21,10 +21,18 @@ https://www.jetbrains.com/webstorm/download/#section=windows
 
 ### **GIT**
 
-Webstorm has in-built **GIT** functions such as 
+Webstorm has in-built **GIT** functions such as **push, pull, commit, fetch, merge, branches** etc
+However, Webstorm has a **Git** terminal that can be used to do these. Here are some **Git** commands that you can also use.
 
-
-
+**List of Git Commands**
+Creating a new **branch**: git checkout -b <branch-name> or git checkout -b <branch-name>
+Cloning a **repository**: git clone
+Creating a new **commit**: git commit
+Fetching: git fetch
+Pulling: git pull
+Merging a **branch**: git merge
+**Push**: git push
+Switching between **Branches**: git checkout
 
 - Branch - This is another created version of the main repository.
 - Clone - Cloning is creating a local version of your Github repository.
