@@ -17,7 +17,6 @@ https://www.jetbrains.com/webstorm/download/#section=windows
 2. After installing Webstorm, you will now have to link the it to your **Github** **Repository**.
 3. To do this, you copy your **repository** path. Now you will go back into Webstorm, click the **GIT** dropdown and click Clone.
 4. Under **Repository** URL, you will set your Version control to **Git**, paste your URL and click **Clone**. Now you have set up a connection between your **Github** and Webstorm and you can now use all the **Git** functions on your application.
-5. 
 
 ### **GIT**
 
@@ -25,14 +24,14 @@ Webstorm has in-built **GIT** functions such as **push, pull, commit, fetch, mer
 However, Webstorm has a **Git** terminal that can be used to do these. Here are some **Git** commands that you can also use.
 
 **List of Git Commands**
-Creating a new **branch**: git checkout -b <branch-name> or git checkout -b <branch-name>
-Cloning a **repository**: git clone
-Creating a new **commit**: git commit
-Fetching: git fetch
-Pulling: git pull
-Merging a **branch**: git merge
-**Push**: git push
-Switching between **Branches**: git checkout
+1. Creating a new **branch**: git checkout -b <branch-name> or git checkout -b <branch-name>
+2. Cloning a **repository**: git clone
+3. Creating a new **commit**: git commit
+4. Fetching: git fetch
+5. Pulling: git pull
+6. Merging a **branch**: git merge
+7. **Push**: git push
+8. Switching between **Branches**: git checkout
 
 - Branch - This is another created version of the main repository.
 - Clone - Cloning is creating a local version of your Github repository.
